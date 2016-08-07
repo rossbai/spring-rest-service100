@@ -6,3 +6,5 @@ This guide walks you through the process of creating a "hello world" RESTful web
 
 reference url:
 https://spring.io/guides/gs/rest-service/
+
+IDEA-Spring Initializr-Rest repositories
