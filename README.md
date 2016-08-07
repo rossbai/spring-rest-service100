@@ -15,13 +15,17 @@ This guide walks you through the process of creating a "hello world" RESTful web
 build these pages as below:
 --------------
 pom.xml
+
 Greeting.java
+
 GreetingController.java
+
 Application.java
 
 test url:
 -------------
 http://localhost:8080/greeting
+
 http://localhost:8080/greeting?name=tom
 
 
